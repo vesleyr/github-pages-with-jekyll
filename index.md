@@ -6,10 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Let me see how this works
 
-Writing some text here to preview.
+Writing some text here to preview...
 
 ```markdown
 Syntax highlighted code block
+
+:Title - Is this a title?
 
 # Header 1
 ## Header 2
