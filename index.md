@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/vesleyr/github-pages-with-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Let me see how this works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Adding some text here to see how it looks
 
 ```markdown
 Syntax highlighted code block
