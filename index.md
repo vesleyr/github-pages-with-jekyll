@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Let me see how this works
 
-Adding some text here to see how it looks
+All we ever do is Blah BLah BLah
 
 ```markdown
 Syntax highlighted code block
