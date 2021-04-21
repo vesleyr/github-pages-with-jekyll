@@ -11,6 +11,8 @@ Writing some text here to preview...
 ```markdown
 Syntax highlighted code block
 
+:Title - Is this a title?
+
 # Header 1
 ## Header 2
 ### Header 3
